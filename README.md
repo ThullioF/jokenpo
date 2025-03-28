@@ -4,7 +4,7 @@
 Este é um aplicativo de Jokenpô (Pedra, Papel e Tesoura) desenvolvido em Flutter. O usuário pode escolher entre pedra, papel ou tesoura e jogar contra a máquina, que faz uma escolha aleatória.
 
 ## 📸 Demonstração
-![Demo do App](/jokenpo/images/jokenpo-ezgif.com-video-to-gif-converter.gif)
+![Demo do App](./jokenpo/images/jokenpo-ezgif.com-video-to-gif-converter.gif)
 
 ## 🚀 Tecnologias Utilizadas
 - Flutter
