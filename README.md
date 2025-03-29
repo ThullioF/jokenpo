@@ -10,24 +10,6 @@ Este é um aplicativo de Jokenpô (Pedra, Papel e Tesoura) desenvolvido em Flutt
 - Flutter
 - Dart
 
-## 📦 Instalação
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Entre no diretório do projeto:
-   ```bash
-   cd seu-repositorio
-   ```
-3. Instale as dependências:
-   ```bash
-   flutter pub get
-   ```
-4. Execute o app:
-   ```bash
-   flutter run
-   ```
-
 ## ✨ Como Jogar
 1. Escolha entre Pedra, Papel ou Tesoura.
 2. O aplicativo escolherá uma opção aleatória.
